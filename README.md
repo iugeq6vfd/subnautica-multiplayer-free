@@ -6,6 +6,8 @@ pixel drain https://pixeldrain.com/u/YRXxvsxQ
 
 google drive https://drive.google.com/file/d/1xB_1c6bAC-ALSvLhZnIjsZ7-tolgvrqX/view?usp=sharing
 
+or directly on the github repo 
+
 Installing ZeroTier:
 
 Install ZeroTier, a software that will simulate a local network with your friends.
